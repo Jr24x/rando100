@@ -8,7 +8,7 @@ The Rando100 generator
     
     
     
-    <details>
+  
   <summary>Socials</summary>
     <p align="center">
     Socials:
